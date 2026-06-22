@@ -1,0 +1,15 @@
+-----------------------------------------------
+ Employee Skills Management System
+------------------------------------------------
+[ Add Employee ]
+
+[ Add Training Record ]
+
+[ Search Employee ]
+
+[ Reports ]
+
+[ Dashboard ]
+
+[ Exit ]
+------------------------------------------------
